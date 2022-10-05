@@ -8,6 +8,8 @@ int main(){
 	
 	printf("\n\nEnter your choice");
 	scanf("%d",&choice);
+	while(1){
+	
 	switch(choice){
 		case 1:
 			
@@ -41,5 +43,6 @@ int main(){
 		default:
 			printf("Invalid Choice");
 	}
+}
 	
 }
