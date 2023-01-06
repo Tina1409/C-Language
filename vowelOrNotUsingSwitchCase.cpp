@@ -1,4 +1,4 @@
-//vowel or not using swwitch case
+//vowel or not using switch case
 #include"stdio.h"
 int main(){
 	char a;
