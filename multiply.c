@@ -1,3 +1,4 @@
+//multiplication of two numbers
 #inculde"stdio.h"
 int main(){
 	int a,b,mult;
